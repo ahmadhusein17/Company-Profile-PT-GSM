@@ -1,0 +1,21 @@
+section {
+    padding-top: 4rem;
+}
+
+.lokasi {
+    margin: 1px auto;
+}
+
+.kotak {
+    margin: 1px 1px;
+}
+
+.lokasi h3 {
+    padding-top: 3px;
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+    .layanan .card {
+        min-height: 20px;
+    }
+}
