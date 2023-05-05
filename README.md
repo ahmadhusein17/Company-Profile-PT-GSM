@@ -3,4 +3,4 @@ Company Profil PT Gunung Sumber Murni sederhana, yang telah saya buat menggunaka
 
 Tujuan saya membuat website ini sebagai pembelajaran ilmu yang telah saya dapat dalam dunia Programming dan keuntungan untuk PT Gunung Sumber Murni agar orang dengan mudah mencari informasi PT Gunung Sumber Murni dengan mudah .
 
-Mohon maaf jika tampilan ini sangat sederhana dan belum terlihat sempurna, saat ini hanya segini kemampuan saya dalam membuat company profil. Semoga kedepannya saya dapat membuat Repository baru yang dapat bermanfaat untuk semua orang.
+Mohon maaf jika tampilan ini sangat sederhana dan belum terlihat sempurna. Semoga kedepannya saya dapat membuat Repository baru yang lebih menarik dan dapat bermanfaat untuk semua orang.
